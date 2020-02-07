@@ -8,4 +8,5 @@ Following is the list of gestures:
 
 Following are the list of files attached:
 1) Faculty Evaluation Q and A: It consists of the response to the faculty question
-2) Faculty Presentation: It consists of the presentation of out project. This is in form a google drive link.
+2) Faculty Presentation: It consists of the presentation of out project. This is in form a google drive link as it couldn't be uploaded due to its large size. (Link: https://drive.google.com/file/d/1NKzPSMwtCNQivgKzOhyaoPRQGKo6Enyu/view?usp=sharing)
+
