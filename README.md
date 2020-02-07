@@ -32,7 +32,8 @@ The user enters his account number. Once the account number is verified, the use
 
 User clicks on the take picture button and then the camera opens.
 
+![photo6190536509657033018](https://user-images.githubusercontent.com/57843558/74013748-2f508080-49b3-11ea-8e04-30a434934431.jpg)
 
-
+User shows the corresponding gesture to the number he has to enter in the pin. The gesture gets recorded. For security reasons the app can store only one gesture at a time. The user again has to click on the take pictue icon to enter the second number of the pin. The first gesture would get deleted and then user would be able to enter the second getsure.
 
 
