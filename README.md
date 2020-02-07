@@ -46,4 +46,6 @@ From the above image its clear that user has entered pin as 1111. Once the 4 dig
 
 Once the user clicks on the Details button, a message box opens which gives the account details namely user's name and the account balance as shown in below screenshot.
 
+![Screen Shot 2020-02-07 at 4 18 24 PM](https://user-images.githubusercontent.com/57843558/74023383-8c553200-49c5-11ea-92d5-bf2d02570704.png)
 
+In case the pin entered is wrong or the account is not found, the message box would display "Account Not Found"
