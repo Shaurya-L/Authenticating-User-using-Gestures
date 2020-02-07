@@ -42,3 +42,8 @@ Lets assume the user has enetered the pin using the two getsures L and Peace. Th
 
 From the above image its clear that user has entered pin as 1111. Once the 4 digit pin has been entered a GUI window opens which has been created using Tkinter library in Python. The window acts as the frontend. The screenshot for the same is shared below.
 
+![Screen Shot 2020-02-07 at 4 15 22 PM](https://user-images.githubusercontent.com/57843558/74023221-236dba00-49c5-11ea-8aa2-776f73153e18.png)
+
+Once the user clicks on the Details button, a message box opens which gives the account details namely user's name and the account balance as shown in below screenshot.
+
+
