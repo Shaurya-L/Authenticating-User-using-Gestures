@@ -36,6 +36,9 @@ User clicks on the take picture button and then the camera opens.
 
 User shows the corresponding gesture to the number he has to enter in the pin. The gesture gets recorded. For security reasons the app can store only one gesture at a time. The user again has to click on the take pictue icon to enter the second number of the pin. The first gesture would get deleted and then user would be able to enter the second getsure.
 
-Lets assume the user has enetered the pin using the two getsures L and Peace. The pin that has been enterend is shown in the backend code and the screenshot has been placed below.
+Lets assume the user has enetered the pin using the two getsures L and Peace. The pin that has been enterend is shown in the backend code and the screenshot has been placed below. The black and white image denotes what the computer sees.
 
+![Screen Shot 2020-02-07 at 4 09 38 PM](https://user-images.githubusercontent.com/57843558/74022864-6e3b0200-49c4-11ea-907f-668f36b8a1d7.png)
+
+From the above image its clear that user has entered pin as 1111. Once the 4 digit pin has been entered a GUI window opens which has been created using Tkinter library in Python. The window acts as the frontend. The screenshot for the same is shared below.
 
