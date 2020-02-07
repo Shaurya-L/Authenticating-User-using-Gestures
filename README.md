@@ -36,4 +36,4 @@ User clicks on the take picture button and then the camera opens.
 
 User shows the corresponding gesture to the number he has to enter in the pin. The gesture gets recorded. For security reasons the app can store only one gesture at a time. The user again has to click on the take pictue icon to enter the second number of the pin. The first gesture would get deleted and then user would be able to enter the second getsure.
 
-
+Lets assume the user has enetered the pin using the two getsures L and Peace.
