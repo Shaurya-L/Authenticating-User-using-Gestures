@@ -1,5 +1,14 @@
 # Authenticating-User-using-Gestures
 
+Team Leader Name: Shaurya Luthra
+Team Name: Hack-o-Holics
+Problem Statement Number: NH447
+Problem Statement: Authenticating User while performing transaction at ATM/POS Terminal Securely
+Organisation: NCR Corporation (India) Private Limited
+Category: Software
+Domain Bucket: Security & Surveillance
+
+
 The aim of the project is to authenticate a user using gestures. The organisation wants to completely remove the use of keyboards to enter pin and instead wants the user to enter the pin using hand gestures due to security reasons. This project has been built using deep learning and convolutional neural network technologies with 4 hidden layers in the neural network. Our model has been trained to verify a user based on a few gestures and based on that give the account details of the user. We have built a prototype of the project which has been trained to recognize 2 getsures as of now.
 
 Following is the list of gestures:
