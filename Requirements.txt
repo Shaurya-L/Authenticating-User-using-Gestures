@@ -1,0 +1,9 @@
+Following libraries are necessary for running the code: To install a library run pip install <library_name>
+
+cv2
+numpy
+keras
+matplotlib
+tensorflow
+tkinter
+pandas
