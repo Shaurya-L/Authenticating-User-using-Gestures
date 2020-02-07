@@ -24,3 +24,6 @@ The app is ready and only part left is integeration with this system. Screenshot
 
 When the app is opened, this screen opens first.
 
+![photo6190275457249815004](https://user-images.githubusercontent.com/57843558/74013181-e1874880-49b1-11ea-9e35-430bfb075901.jpg)
+
+The user enters his account number.
