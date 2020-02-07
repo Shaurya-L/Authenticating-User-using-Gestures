@@ -14,3 +14,6 @@ Following are the list of files attached:
 
 The VGG_cross_validated.h5 consists of the trained model which would be uploaded on google drive due to large size.
 SIH Database.csv consists of the database of users having the bank account
+
+
+When running the model on a local machine, ensure that while clicking photographs of the gestures, there is white backgroud. Results can vary due to noise or shadows in the background
