@@ -11,3 +11,6 @@ Following are the list of files attached:
 2) Faculty Presentation: It consists of the presentation of out project. This is in form a google drive link as it couldn't be              uploaded due to its large size. 
 3) Demo of the project: It consists of the final demo of the working prototype. Certain files have been used in the demo. The files would be uploaded as a google drive link and would be shared here. In order to run the files ensure everything is included in the same directory.
 
+
+The VGG_cross_validated.h5 consists of the trained model which would be uploaded on google drive due to large size.
+SIH Database.csv consists of the database of users having the bank account
