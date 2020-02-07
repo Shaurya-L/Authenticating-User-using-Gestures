@@ -20,8 +20,7 @@ When running the model on a local machine, ensure that while clicking photograph
 
 The app is ready and only part left is integeration with this system. Screenshots of the app are attached below.
 
-
+![photo6190536509657033020](https://user-images.githubusercontent.com/57843558/74012883-455d4180-49b1-11ea-95f3-1a5db13f8966.jpg)
 
 When the app is opened, this screen opens first.
-
 
