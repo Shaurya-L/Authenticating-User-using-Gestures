@@ -28,6 +28,9 @@ When the app is opened, this screen opens first.
 
 The user enters his account number. Once the account number is verified, the user is asked to enter the pin.
 
+![photo6190536509657033021](https://user-images.githubusercontent.com/57843558/74013578-cff27080-49b2-11ea-9ea2-16f890e29d89.jpg)
+
+User clicks on the take picture button and then the camera opens.
 
 
 
