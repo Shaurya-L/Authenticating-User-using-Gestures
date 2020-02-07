@@ -17,3 +17,6 @@ SIH Database.csv consists of the database of users having the bank account
 
 
 When running the model on a local machine, ensure that while clicking photographs of the gestures, there is white backgroud. Results can vary due to noise or shadows in the background
+
+The app is ready and only part left is integeration with this system. Screenshots of the app are attached below.
+
