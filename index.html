@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>REDDIT FLAIR DETECTOR APP</title>
+<style>
+body 
+{
+background-color: black;
+text-align: center;
+color: white;
+font-family: Arial, Helvetica, sans-serif;
+}
+input
+{
+font-size:25px;
+width: 50%;
+}
+button
+{
+font-size: 25px;
+}
+</style>
+</head>
+<body>
+
+<h1>Welcome to the Reddit Flair Detector Apps</h1>
+<br>
+<form action="{{url_for('success')}}" method="POST" >
+<p style="font-size:25px;">Please enter the URL of the reddit post :</p>
+<input title="URL" placeholder="Reddit Post URL" type="text " name="email_name" required>
+ <br> <br><br><br><br>
+
+<button type="submit"> Submit </button>
+<br><br><br>
+<img src="/Users/shauryaluthra/Desktop/Projects/Reddit Flair Detection/Reddit Flair Detection /templates/reddit.png" alt="Avatar" style="width:500px">
+
+</body>
+</html>
